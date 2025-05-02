@@ -1,4 +1,4 @@
-📌 Checkpoint 1 - API Java para Controle de Pacientes
+📌 Checkpoint 2 - API Java para Controle de Pacientes
 
 Bem-vindo à API Java para controle de pacientes! Este projeto utiliza Spring Boot e Swagger para facilitar a documentação e o desenvolvimento.
 
